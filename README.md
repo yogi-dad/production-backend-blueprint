@@ -5,7 +5,7 @@
 ![TypeScript](https://img.shields.io/badge/typescript-5.x-3178C6?logo=typescript&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
-An opinionated, minimal **production-style** NestJS blueprint focused on architecture and security patterns — not business logic.
+Production-oriented NestJS backend blueprint. JWT auth, RBAC, env validation, rate limiting, cron jobs, Dockerized structure.
 
 Includes:
 - Modular NestJS structure
